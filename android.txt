@@ -1,0 +1,3 @@
+title=kNote
+author=Mischa Jörg
+orientation=landscape
